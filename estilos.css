@@ -7,3 +7,27 @@ body{
     font-family: sans-serif;
 }
 
+}
+.menu{
+    list-style: none;
+    background: #092327;
+    padding: 0%;
+    width: 90%;
+    max-width: 1000px;
+    margin:auto;
+}
+.menu li a {
+    text-decoration: none;
+    color: white;
+    padding: 22px;
+    display: block;
+}
+.menu li {
+    display: inline-block;
+    text-align: center;
+
+}
+.menu li a:hover{
+    background: #ef8354
+
+}
